@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Diego Pizarro. I'm currently a 4th year Computer Science student at Universidad de Chile (Santiago, Chile).
+
+- 📫 How to reach me: [Email](mailto:diego.pizarro0@gmail.com)
