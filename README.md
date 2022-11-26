@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 My name is Diego Pizarro. I'm currently a 4th year Computer Science student at Universidad de Chile (Santiago, Chile).
 
+- 🌱 I’m currently learning computer vision and how to deploy ML models 
 - 📫 How to reach me: [Email](mailto:diego.pizarro0@gmail.com)
