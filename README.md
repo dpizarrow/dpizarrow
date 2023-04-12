@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">I'm a 4th year Computer Science at the University of Chile</h3>
+<h3 align="center">I'm a 5th year Computer Science at the University of Chile</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dpizarrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dpizarrow" height="30" width="40" /></a>
-<a href="https://instagram.com/dpizarrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dpizarrow" height="30" width="40" /></a>
 <a href="mailto: diego.pizarro0@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="diego.pizarro0@gmail.com" height="30" width="40" /></a>
 </p>
 
