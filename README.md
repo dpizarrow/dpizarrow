@@ -8,4 +8,4 @@ Computer Science student at the University of Chile
 
 
 # 💻 Personal Website:
-![Check it out here!](https://dpizarro.cl)
+[Check it out here!](https://dpizarro.cl)
